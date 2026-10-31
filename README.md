@@ -106,7 +106,3 @@ The planning assistant currently uses local, rule-based logic to generate task s
 **Nikhil Lathad**
 
 Computer Engineering Student | VIT Pune
-
-git add README.md
-git commit -m "Improve README and project documentation"
-git push
